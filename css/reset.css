@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+html { font-size: 62.5%;  scroll-behavior: smooth;}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+a { color: #333; text-decoration: none; }
+ol, ul { list-style: none; }
+table { border-collapse: collapse; width: 100%; }
+caption, legend { display: none; }
+fieldset, input, select, textarea { border: 0 none; outline: none; }
+img{vertical-align: top;}
+i, em, address {font-style:normal}
+b,strong,h1,h2,h3,h4,h5,h5,h6{font-weight: normal;}
+
+button, input{background-color: transparent;
+border: none;
+}
